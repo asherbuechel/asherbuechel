@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### I'm currently working on my company called Bonfire Software, our current project is a secure P2P chat application.
+### I'm currently learning Python, C, C++, HTML, and CSS. I have a handful to do for my next projects and these will be useful for them.
+### I'm want someone to help me with my company, I have been doing everything by myself and it's hard for me. I can't pay but in the future it could give us a good resume.
+### You can reach me by my Twitter @asherbuechel or Reddit u/cherishment213, MySpace @asher.buechel, Email pwned@bonfiresoftware.org
+### I'm from Washington State.
+### Fun Fact: Some fungi create zombies, then control their minds
+
 <!--
 **asherbuechel/asherbuechel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
